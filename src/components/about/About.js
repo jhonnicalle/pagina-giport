@@ -13,6 +13,12 @@ const useStyles = makeStyles((theme) => ({
   root: {
     width: '100%',
   },
+  content: {
+    margin: "20px auto"
+  },
+  accordionTitle: {
+    backgroundColor: "#67abf4e5"
+  },
   principalHeading: {
     textAlign: "center",
     fontSize: theme.typography.pxToRem(35),
@@ -34,16 +40,16 @@ const About = () => {
   const classes = useStyles();
   return(
     <Container maxWidth="md">
-      <div className="content">
+      <div className={classes.content}>
         <h1 className={classes.principalHeading}>¿CÓMO TRABAJAMOS?</h1>
-        <p className={classes.p}>Sumando fuerzas para avanzar en las mejores soluciones.</p>
-      
+        <p className={classes.p}>Sumando fuerzas para avanzar en las mejores soluciones.</p>      
         <div className={classes.root}>
-          <Accordion>
+          <Accordion >
             <AccordionSummary
               expandIcon={<ExpandMoreIcon />}
               aria-controls="panel1a-content"
               id="panel1a-header"
+              className={classes.accordionTitle}
             >
               <Typography className={classes.heading}>Valor añadido local</Typography>
             </AccordionSummary>
@@ -58,6 +64,7 @@ const About = () => {
               expandIcon={<ExpandMoreIcon />}
               aria-controls="panel2a-content"
               id="panel2a-header"
+              className={classes.accordionTitle}
             >
               <Typography className={classes.heading}>Innovación</Typography>
             </AccordionSummary>
@@ -72,12 +79,13 @@ const About = () => {
               expandIcon={<ExpandMoreIcon />}
               aria-controls="panel1a-content"
               id="panel1a-header"
+              className={classes.accordionTitle}
             >
               <Typography className={classes.heading}>Seguridad en las operaciones</Typography>
             </AccordionSummary>
-            <AccordionDetails>
+            <AccordionDetails >
               <Typography>
-              La seguridad para los trabajadores, medio ambiente y equipos es el común denominador en todas nuestras operaciones y fundamento de nuestra cultura corporativa.
+                La seguridad para los trabajadores, medio ambiente y equipos es el común denominador en todas nuestras operaciones y fundamento de nuestra cultura corporativa.
               </Typography>
             </AccordionDetails>
           </Accordion>
@@ -86,6 +94,7 @@ const About = () => {
               expandIcon={<ExpandMoreIcon />}
               aria-controls="panel1a-content"
               id="panel1a-header"
+              className={classes.accordionTitle}
             >
               <Typography className={classes.heading}>El equipo humano marca la diferencia</Typography>
             </AccordionSummary>

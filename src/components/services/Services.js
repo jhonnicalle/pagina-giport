@@ -12,7 +12,7 @@ import FiberManualRecordIcon from '@material-ui/icons/FiberManualRecord';
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
-    backgroundColor: '#4747479d',
+    backgroundColor: '#e2b073e5',
     padding: 20
   },
   paper: {
