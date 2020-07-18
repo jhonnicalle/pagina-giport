@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pagina-giport/static/css/main.7b611ae1.chunk.css",
-    "main.js": "/pagina-giport/static/js/main.d08840c0.chunk.js",
-    "main.js.map": "/pagina-giport/static/js/main.d08840c0.chunk.js.map",
+    "main.js": "/pagina-giport/static/js/main.bb67961d.chunk.js",
+    "main.js.map": "/pagina-giport/static/js/main.bb67961d.chunk.js.map",
     "runtime-main.js": "/pagina-giport/static/js/runtime-main.0f114f26.js",
     "runtime-main.js.map": "/pagina-giport/static/js/runtime-main.0f114f26.js.map",
     "static/css/2.af3c1da9.chunk.css": "/pagina-giport/static/css/2.af3c1da9.chunk.css",
     "static/js/2.c2c6cfbf.chunk.js": "/pagina-giport/static/js/2.c2c6cfbf.chunk.js",
     "static/js/2.c2c6cfbf.chunk.js.map": "/pagina-giport/static/js/2.c2c6cfbf.chunk.js.map",
     "index.html": "/pagina-giport/index.html",
-    "precache-manifest.97595c9ed89cc0adc14575ca2e590fe0.js": "/pagina-giport/precache-manifest.97595c9ed89cc0adc14575ca2e590fe0.js",
+    "precache-manifest.a2ae2920e8ba9acd9de04efa18029cf3.js": "/pagina-giport/precache-manifest.a2ae2920e8ba9acd9de04efa18029cf3.js",
     "service-worker.js": "/pagina-giport/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/pagina-giport/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.7b611ae1.chunk.css.map": "/pagina-giport/static/css/main.7b611ae1.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.c2c6cfbf.chunk.js",
     "static/css/main.7b611ae1.chunk.css",
-    "static/js/main.d08840c0.chunk.js"
+    "static/js/main.bb67961d.chunk.js"
   ]
 }

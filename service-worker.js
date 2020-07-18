@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pagina-giport/precache-manifest.97595c9ed89cc0adc14575ca2e590fe0.js"
+  "/pagina-giport/precache-manifest.a2ae2920e8ba9acd9de04efa18029cf3.js"
 );
 
 self.addEventListener('message', (event) => {
