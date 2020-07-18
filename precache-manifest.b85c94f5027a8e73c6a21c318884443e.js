@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aac08fd000b465fa8d8801db2a2c84a1",
+    "revision": "8e8f2831ee99daf0a9118b8d074731d2",
     "url": "/pagina-giport/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pagina-giport/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "5b914fa843c1720f95bd",
+    "revision": "eb9e3bbbc4b2cfe739c9",
     "url": "/pagina-giport/static/css/main.7b611ae1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pagina-giport/static/js/2.c2c6cfbf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b914fa843c1720f95bd",
-    "url": "/pagina-giport/static/js/main.b285778a.chunk.js"
+    "revision": "eb9e3bbbc4b2cfe739c9",
+    "url": "/pagina-giport/static/js/main.bda10bf9.chunk.js"
   },
   {
     "revision": "7301a0f5acdb30ac1bff",
