@@ -51,7 +51,7 @@ const About = () => {
               id="panel1a-header"
               className={classes.accordionTitle}
             >
-              <Typography className={classes.heading}>Valor añadido local</Typography>
+              <Typography className={classes.heading}>Valor Añadido Local</Typography>
             </AccordionSummary>
             <AccordionDetails>
               <Typography>
@@ -81,7 +81,7 @@ const About = () => {
               id="panel1a-header"
               className={classes.accordionTitle}
             >
-              <Typography className={classes.heading}>Seguridad en las operaciones</Typography>
+              <Typography className={classes.heading}>Seguridad en las Operaciones</Typography>
             </AccordionSummary>
             <AccordionDetails >
               <Typography>
@@ -96,7 +96,7 @@ const About = () => {
               id="panel1a-header"
               className={classes.accordionTitle}
             >
-              <Typography className={classes.heading}>El equipo humano marca la diferencia</Typography>
+              <Typography className={classes.heading}>El Equipo Humano Marca la Diferencia</Typography>
             </AccordionSummary>
             <AccordionDetails>
               <Typography>
