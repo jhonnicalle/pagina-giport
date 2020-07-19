@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/pagina-giport/static/css/main.7b611ae1.chunk.css",
-    "main.js": "/pagina-giport/static/js/main.bda10bf9.chunk.js",
-    "main.js.map": "/pagina-giport/static/js/main.bda10bf9.chunk.js.map",
+    "main.css": "/pagina-giport/static/css/main.9b6d11a9.chunk.css",
+    "main.js": "/pagina-giport/static/js/main.b21ef94e.chunk.js",
+    "main.js.map": "/pagina-giport/static/js/main.b21ef94e.chunk.js.map",
     "runtime-main.js": "/pagina-giport/static/js/runtime-main.0f114f26.js",
     "runtime-main.js.map": "/pagina-giport/static/js/runtime-main.0f114f26.js.map",
     "static/css/2.af3c1da9.chunk.css": "/pagina-giport/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c2c6cfbf.chunk.js": "/pagina-giport/static/js/2.c2c6cfbf.chunk.js",
-    "static/js/2.c2c6cfbf.chunk.js.map": "/pagina-giport/static/js/2.c2c6cfbf.chunk.js.map",
+    "static/js/2.0e6ea69e.chunk.js": "/pagina-giport/static/js/2.0e6ea69e.chunk.js",
+    "static/js/2.0e6ea69e.chunk.js.map": "/pagina-giport/static/js/2.0e6ea69e.chunk.js.map",
     "index.html": "/pagina-giport/index.html",
-    "precache-manifest.b85c94f5027a8e73c6a21c318884443e.js": "/pagina-giport/precache-manifest.b85c94f5027a8e73c6a21c318884443e.js",
+    "precache-manifest.26503b7ab788352292b6580ff84092ec.js": "/pagina-giport/precache-manifest.26503b7ab788352292b6580ff84092ec.js",
     "service-worker.js": "/pagina-giport/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/pagina-giport/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.7b611ae1.chunk.css.map": "/pagina-giport/static/css/main.7b611ae1.chunk.css.map",
-    "static/js/2.c2c6cfbf.chunk.js.LICENSE.txt": "/pagina-giport/static/js/2.c2c6cfbf.chunk.js.LICENSE.txt",
+    "static/css/main.9b6d11a9.chunk.css.map": "/pagina-giport/static/css/main.9b6d11a9.chunk.css.map",
+    "static/js/2.0e6ea69e.chunk.js.LICENSE.txt": "/pagina-giport/static/js/2.0e6ea69e.chunk.js.LICENSE.txt",
     "static/media/giport-logo.png": "/pagina-giport/static/media/giport-logo.b3f1031d.png",
-    "static/media/header.css": "/pagina-giport/static/media/imagen-1.a9b550cf.jpg"
+    "static/media/header.css": "/pagina-giport/static/media/imagen-1.0026f8c3.jpg",
+    "static/media/imagen-2.jpg": "/pagina-giport/static/media/imagen-2.4ed0cd61.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0f114f26.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c2c6cfbf.chunk.js",
-    "static/css/main.7b611ae1.chunk.css",
-    "static/js/main.bda10bf9.chunk.js"
+    "static/js/2.0e6ea69e.chunk.js",
+    "static/css/main.9b6d11a9.chunk.css",
+    "static/js/main.b21ef94e.chunk.js"
   ]
 }
