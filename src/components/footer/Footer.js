@@ -7,7 +7,7 @@ import { Divider, Grid } from '@material-ui/core';
 const useStyles = makeStyles((theme) => ({
   root: {
     width: '100%',
-    backgroundColor: '#67abf4',
+    backgroundColor: '#fac767',
     padding: "20px"
   },
   principalHeading: {

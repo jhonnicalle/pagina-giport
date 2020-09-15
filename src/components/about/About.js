@@ -17,7 +17,7 @@ const useStyles = makeStyles((theme) => ({
     margin: "20px auto"
   },
   accordionTitle: {
-    backgroundColor: "#67abf4e5"
+    backgroundColor: "#fac767e5"
   },
   principalHeading: {
     textAlign: "center",

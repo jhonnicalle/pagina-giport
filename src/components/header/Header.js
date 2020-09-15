@@ -1,7 +1,8 @@
 import React from 'react';
 import './header.css'
 // import styled from 'styled-components'
-import logo from '../../images/giport-logo.png'
+// import logo from '../../images/giport-logo.png'
+import logo from '../../images/LOGO-GIPORT-03.png'
 
 const Header = () => {
   
